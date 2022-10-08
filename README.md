@@ -56,12 +56,14 @@ Check the contribution [RULES](/CONTRIBUTING.md)
  
 - [Vulnerability Attacks](/Attacks/README.md)
     - [Clickjacking](/Attacks/README.md)
+    - [CORS](/Attacks/README.md)
     - [IDOR](/Attacks/README.md)
     - [Local File Inclusion (LFI)](/Attacks/README.md)
     - [Session Hijacking](/Attacks/README.md)
     - [SQL Injection](/Attacks/README.md)
     - [Web Cache Poisoning](/Attacks/README.md)
     - [XSS](/Attacks/README.md)
+    
 
 
 ## Free Learning Resources
